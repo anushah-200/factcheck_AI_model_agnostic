@@ -1,0 +1,4 @@
+Model,FP,Actual_NonHallucinated,FP_Rate_%
+DeepSeek,36,147,24.5
+Groq,16,99,16.2
+OpenAI,26,120,21.7

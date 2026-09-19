@@ -1,0 +1,4 @@
+Model,FN,Actual_Hallucinated,FN_Rate_%
+DeepSeek,27,123,22.0
+Groq,21,158,13.3
+OpenAI,24,159,15.1

@@ -1,0 +1,3 @@
+Type,FN,FP,TN,TP,Total,FN_Rate_%
+Adversarial,36,34,152,157,379,9.5
+Non-Adversarial,36,44,136,211,427,8.4
